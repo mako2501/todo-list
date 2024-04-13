@@ -4,7 +4,7 @@ import Todo from './components/todo';
 Serio prosta apka w react
 lista zadań do wykonania + lista zadań wykonanych
 
-Rafał MAKOWSKI
+Rafał *****
 14798
 */
 const App = () => {
